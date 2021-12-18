@@ -10,6 +10,7 @@ public class GitDemo {
         System.out.println("git demo22");
         System.out.println("git demo33");
         System.out.println("hot-fox-1 test");
+        System.out.println("master test");
     }
 
 }
